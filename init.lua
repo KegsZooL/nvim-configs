@@ -1,2 +1,6 @@
 require('core.plugins')
 require('core.configs')
+require('plugins_settings.lualine')
+require('plugins_settings.telescope')
+require('plugins_settings.presence')
+require('plugins_settings.neotree')
